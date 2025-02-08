@@ -21,4 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "Unit Converter app"
 include(":app")
- 
+include(":frenchteacherapp")
+rootProject.name = "Lucky Number app"
+include(":Lucky Number App")
+

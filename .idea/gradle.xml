@@ -10,7 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Lucky Number App" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/frenchteacherapp" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
